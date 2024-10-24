@@ -21,7 +21,7 @@ function Profile() {
         </div>
         <div>
           <h1 className="text-2xl">Jessica Randall</h1>
-          <h3 className="text-cc-green">London, United Kingdom</h3>
+          <span className="text-cc-green">London, United Kingdom</span>
         </div>
         <p className="text-sm">"Front-end developer and avid reader."</p>
       </div>
